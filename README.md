@@ -1,9 +1,9 @@
 How to use:
    1. Clone repositories
    2. Open the terminal in the folder
-   3. run "pod install"
-   4. open file ".xcworkspace"
-   5. build and run<br><br>
+   3. Run "pod install"
+   4. Open file ".xcworkspace"
+   5. Build and run<br><br>
    
 Technologies:<br>
 - Frontend: SwiftUI (iOS)<br>
