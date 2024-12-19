@@ -27,7 +27,7 @@ View all available orders:
  ![Alt text](https://github.com/trungthanh324/NeFood_Shipper/blob/43de8c11239938f3279af6cc551f3044278a090c/IMG_2548.PNG)<br>
  Tracking screen:
  ![Alt text](https://github.com/trungthanh324/NeFood_Shipper/blob/43de8c11239938f3279af6cc551f3044278a090c/IMG_2549.PNG)<br><br>
- Link client app: [image alt](https://github.com/trungthanh324/NeFood_Client.git)
+ Link client app: [click here](https://github.com/trungthanh324/NeFood_Client.git)
 
 
 
