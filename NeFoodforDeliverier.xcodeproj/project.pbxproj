@@ -7,18 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1670E981129C4CCDDCF4D5C5 /* Pods_NeFoodforDeliverier.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B6FBF582209388DE3885D412 /* Pods_NeFoodforDeliverier.framework */; };
+		8D35746D2CCF3DD200DD6E62 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8D35746C2CCF3DD200DD6E62 /* AdSupport.framework */; };
+		8D35746F2CD1F88A00DD6E62 /* OrderTaken.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D35746E2CD1F88A00DD6E62 /* OrderTaken.swift */; };
+		8D3574732CD3293B00DD6E62 /* Taken.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D3574722CD3293B00DD6E62 /* Taken.swift */; };
 		8D78EB8F2CCE24DE0008AFE9 /* NeFoodforDeliverierApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D78EB8E2CCE24DE0008AFE9 /* NeFoodforDeliverierApp.swift */; };
 		8D78EB912CCE24DE0008AFE9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D78EB902CCE24DE0008AFE9 /* ContentView.swift */; };
 		8D78EB932CCE24E00008AFE9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D78EB922CCE24E00008AFE9 /* Assets.xcassets */; };
 		8D78EB962CCE24E00008AFE9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D78EB952CCE24E00008AFE9 /* Preview Assets.xcassets */; };
+		8D78EB9F2CCE253E0008AFE9 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D78EB9E2CCE253E0008AFE9 /* Home.swift */; };
+		8D78EBA22CCE26240008AFE9 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D78EBA12CCE26240008AFE9 /* HomeViewModel.swift */; };
+		8D78EBA62CCE28100008AFE9 /* OrderItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D78EBA52CCE28100008AFE9 /* OrderItem.swift */; };
+		8D78EBA82CCE47DF0008AFE9 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8D78EBA72CCE47DF0008AFE9 /* GoogleService-Info.plist */; };
+		8D81C1EF2CE49A2F00265CDC /* TrackingScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D81C1EE2CE49A2F00265CDC /* TrackingScreen.swift */; };
+		8D84435A2CD8B4F60060BD35 /* Login.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D8443592CD8B4F60060BD35 /* Login.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		034D2ACC15A432BB1C82DFF2 /* Pods-NeFoodforDeliverier.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NeFoodforDeliverier.release.xcconfig"; path = "Target Support Files/Pods-NeFoodforDeliverier/Pods-NeFoodforDeliverier.release.xcconfig"; sourceTree = "<group>"; };
+		3A93C845FF52A3C7F9ACA7CD /* Pods-NeFoodforDeliverier.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NeFoodforDeliverier.debug.xcconfig"; path = "Target Support Files/Pods-NeFoodforDeliverier/Pods-NeFoodforDeliverier.debug.xcconfig"; sourceTree = "<group>"; };
+		8D35746B2CCF3B0900DD6E62 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		8D35746C2CCF3DD200DD6E62 /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
+		8D35746E2CD1F88A00DD6E62 /* OrderTaken.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderTaken.swift; sourceTree = "<group>"; };
+		8D3574722CD3293B00DD6E62 /* Taken.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Taken.swift; sourceTree = "<group>"; };
 		8D78EB8B2CCE24DE0008AFE9 /* NeFoodforDeliverier.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NeFoodforDeliverier.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D78EB8E2CCE24DE0008AFE9 /* NeFoodforDeliverierApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeFoodforDeliverierApp.swift; sourceTree = "<group>"; };
 		8D78EB902CCE24DE0008AFE9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8D78EB922CCE24E00008AFE9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8D78EB952CCE24E00008AFE9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8D78EB9E2CCE253E0008AFE9 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		8D78EBA12CCE26240008AFE9 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
+		8D78EBA52CCE28100008AFE9 /* OrderItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderItem.swift; sourceTree = "<group>"; };
+		8D78EBA72CCE47DF0008AFE9 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		8D81C1EE2CE49A2F00265CDC /* TrackingScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrackingScreen.swift; sourceTree = "<group>"; };
+		8D8443592CD8B4F60060BD35 /* Login.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login.swift; sourceTree = "<group>"; };
+		B6FBF582209388DE3885D412 /* Pods_NeFoodforDeliverier.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NeFoodforDeliverier.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,17 +49,39 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D35746D2CCF3DD200DD6E62 /* AdSupport.framework in Frameworks */,
+				1670E981129C4CCDDCF4D5C5 /* Pods_NeFoodforDeliverier.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4257ECCE523658BEF49AB9A6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8D35746C2CCF3DD200DD6E62 /* AdSupport.framework */,
+				B6FBF582209388DE3885D412 /* Pods_NeFoodforDeliverier.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		4BAE6230B14B061A759A6C4C /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3A93C845FF52A3C7F9ACA7CD /* Pods-NeFoodforDeliverier.debug.xcconfig */,
+				034D2ACC15A432BB1C82DFF2 /* Pods-NeFoodforDeliverier.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		8D78EB822CCE24DE0008AFE9 = {
 			isa = PBXGroup;
 			children = (
 				8D78EB8D2CCE24DE0008AFE9 /* NeFoodforDeliverier */,
 				8D78EB8C2CCE24DE0008AFE9 /* Products */,
+				4BAE6230B14B061A759A6C4C /* Pods */,
+				4257ECCE523658BEF49AB9A6 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -51,9 +96,14 @@
 		8D78EB8D2CCE24DE0008AFE9 /* NeFoodforDeliverier */ = {
 			isa = PBXGroup;
 			children = (
+				8D35746B2CCF3B0900DD6E62 /* Info.plist */,
+				8D78EBA02CCE26130008AFE9 /* ViewModel */,
+				8D78EB9D2CCE252B0008AFE9 /* Model */,
+				8D78EB9C2CCE25240008AFE9 /* View */,
 				8D78EB8E2CCE24DE0008AFE9 /* NeFoodforDeliverierApp.swift */,
 				8D78EB902CCE24DE0008AFE9 /* ContentView.swift */,
 				8D78EB922CCE24E00008AFE9 /* Assets.xcassets */,
+				8D78EBA72CCE47DF0008AFE9 /* GoogleService-Info.plist */,
 				8D78EB942CCE24E00008AFE9 /* Preview Content */,
 			);
 			path = NeFoodforDeliverier;
@@ -67,6 +117,34 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		8D78EB9C2CCE25240008AFE9 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				8D78EB9E2CCE253E0008AFE9 /* Home.swift */,
+				8D35746E2CD1F88A00DD6E62 /* OrderTaken.swift */,
+				8D8443592CD8B4F60060BD35 /* Login.swift */,
+				8D81C1EE2CE49A2F00265CDC /* TrackingScreen.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		8D78EB9D2CCE252B0008AFE9 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				8D78EBA52CCE28100008AFE9 /* OrderItem.swift */,
+				8D3574722CD3293B00DD6E62 /* Taken.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		8D78EBA02CCE26130008AFE9 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				8D78EBA12CCE26240008AFE9 /* HomeViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -74,15 +152,19 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8D78EB992CCE24E00008AFE9 /* Build configuration list for PBXNativeTarget "NeFoodforDeliverier" */;
 			buildPhases = (
+				18C857CD7B706CD5C90B8CDA /* [CP] Check Pods Manifest.lock */,
 				8D78EB872CCE24DE0008AFE9 /* Sources */,
 				8D78EB882CCE24DE0008AFE9 /* Frameworks */,
 				8D78EB892CCE24DE0008AFE9 /* Resources */,
+				A2C2A767547D43717EC8ABA6 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			name = NeFoodforDeliverier;
+			packageProductDependencies = (
+			);
 			productName = NeFoodforDeliverier;
 			productReference = 8D78EB8B2CCE24DE0008AFE9 /* NeFoodforDeliverier.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +193,8 @@
 				Base,
 			);
 			mainGroup = 8D78EB822CCE24DE0008AFE9;
+			packageReferences = (
+			);
 			productRefGroup = 8D78EB8C2CCE24DE0008AFE9 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -126,11 +210,54 @@
 			buildActionMask = 2147483647;
 			files = (
 				8D78EB962CCE24E00008AFE9 /* Preview Assets.xcassets in Resources */,
+				8D78EBA82CCE47DF0008AFE9 /* GoogleService-Info.plist in Resources */,
 				8D78EB932CCE24E00008AFE9 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		18C857CD7B706CD5C90B8CDA /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-NeFoodforDeliverier-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A2C2A767547D43717EC8ABA6 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-NeFoodforDeliverier/Pods-NeFoodforDeliverier-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-NeFoodforDeliverier/Pods-NeFoodforDeliverier-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-NeFoodforDeliverier/Pods-NeFoodforDeliverier-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		8D78EB872CCE24DE0008AFE9 /* Sources */ = {
@@ -138,7 +265,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				8D78EB912CCE24DE0008AFE9 /* ContentView.swift in Sources */,
+				8D3574732CD3293B00DD6E62 /* Taken.swift in Sources */,
+				8D78EB9F2CCE253E0008AFE9 /* Home.swift in Sources */,
 				8D78EB8F2CCE24DE0008AFE9 /* NeFoodforDeliverierApp.swift in Sources */,
+				8D81C1EF2CE49A2F00265CDC /* TrackingScreen.swift in Sources */,
+				8D78EBA22CCE26240008AFE9 /* HomeViewModel.swift in Sources */,
+				8D84435A2CD8B4F60060BD35 /* Login.swift in Sources */,
+				8D35746F2CD1F88A00DD6E62 /* OrderTaken.swift in Sources */,
+				8D78EBA62CCE28100008AFE9 /* OrderItem.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -182,7 +316,7 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu17;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -245,7 +379,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu17;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -266,6 +400,7 @@
 		};
 		8D78EB9A2CCE24E00008AFE9 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3A93C845FF52A3C7F9ACA7CD /* Pods-NeFoodforDeliverier.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -275,6 +410,7 @@
 				DEVELOPMENT_TEAM = F568ZVQ6JJ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = NeFoodforDeliverier/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -295,6 +431,7 @@
 		};
 		8D78EB9B2CCE24E00008AFE9 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 034D2ACC15A432BB1C82DFF2 /* Pods-NeFoodforDeliverier.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -304,6 +441,7 @@
 				DEVELOPMENT_TEAM = F568ZVQ6JJ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = NeFoodforDeliverier/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

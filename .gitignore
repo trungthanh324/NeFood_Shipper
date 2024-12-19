@@ -1,0 +1,8 @@
+# CocoaPods
+/Pods/
+/Podfile.lock
+/*.xcworkspace
+
+# Xcode
+*.xcuserstate
+*.swp
