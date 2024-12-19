@@ -1,6 +1,6 @@
 How to use:
    1. Clone repositories
-   2. Open the terminal in the folder
+   2. Open the terminal at the folder
    3. Run "pod install"
    4. Open file ".xcworkspace"
    5. Build and run<br><br>
