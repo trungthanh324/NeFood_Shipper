@@ -19,7 +19,7 @@ Main modules:<br>
 - Cancel order.
 - Update the status when the order is finished.<br><br>
  Link client app: [click here](https://github.com/trungthanh324/NeFood_Client.git)<br><br>
-App tour:
+App tour:<br>
 Login:
  ![Alt text](https://github.com/trungthanh324/NeFood_Shipper/blob/43de8c11239938f3279af6cc551f3044278a090c/IMG_2545.PNG)<br>
 View all available orders:
