@@ -17,7 +17,8 @@ Main modules:<br>
 - Take the order, and update the order’s status.
 - Display the client’s location and route on the map in real-time.
 - Cancel order.
-- Update the status when the order is finished.<br><be>
+- Update the status when the order is finished.<br><br>
+ Link client app: [click here](https://github.com/trungthanh324/NeFood_Client.git)<br><br>
 App tour:
 Login:
  ![Alt text](https://github.com/trungthanh324/NeFood_Shipper/blob/43de8c11239938f3279af6cc551f3044278a090c/IMG_2545.PNG)<br>
@@ -27,7 +28,7 @@ View all available orders:
  ![Alt text](https://github.com/trungthanh324/NeFood_Shipper/blob/43de8c11239938f3279af6cc551f3044278a090c/IMG_2548.PNG)<br>
  Tracking screen:
  ![Alt text](https://github.com/trungthanh324/NeFood_Shipper/blob/43de8c11239938f3279af6cc551f3044278a090c/IMG_2549.PNG)<br><br>
- Link client app: [click here](https://github.com/trungthanh324/NeFood_Client.git)
+
 
 
 
